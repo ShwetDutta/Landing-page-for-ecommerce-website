@@ -18,6 +18,6 @@
 ### CSS: For styling and interactive hover effects.
 
 ## Installation & Usage
-### Clone the repository:
+### Clone the repository: https://github.com/ShwetDutta/Landing-page-for-ecommerce-website.git
 
 
